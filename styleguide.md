@@ -6,13 +6,15 @@
 - double spaces
 - double dashes
 - quotation marks/inch marks/primes 
-  - hair-em-hair
+
  
 
 ###Punctuation, dashes
 - hyphens
 - date and number ranges
+ -en
 - pauses
+  -hair-em-hair
 
 ###Numbers
 ###Lists 
