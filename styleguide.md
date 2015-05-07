@@ -2,6 +2,12 @@
 
 ##Style Guide Elements
 
+###Standard text cleanup
+- double spaces
+- double dashes
+- quotation marks/inch marks/primes
+- 
+
 ###Punctuation, dashes
 - hyphens
 - date and number ranges
@@ -18,6 +24,8 @@
 
 ###tricky spellings
 - interp vs interp
+- mikmaq (noun vs adverb)
+- 
 
 ###French
 - French? punct rules
