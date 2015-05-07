@@ -25,7 +25,6 @@
 ###tricky spellings
 - interp vs interp
 - mikmaq (noun vs adverb)
-- 
 
 ###French
 - French? punct rules
