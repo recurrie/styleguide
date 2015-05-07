@@ -3,12 +3,13 @@
 ##Style Guide Elements
 
 ###Punctuation, dashes
-###Snumbers
-###Lists - bulleted and numbered
+###Numbers
+###Lists 
+- bulleted and numbered
 ###Caps
 ###URLS: www or not
 ###phone numbers
-###Quotations
+###quotations
 
 ###tricky spellings
 - interp vs interp
