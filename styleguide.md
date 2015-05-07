@@ -6,7 +6,7 @@
 - double spaces
 - double dashes
 - quotation marks/inch marks/primes 
-* hair-em-hair
+  - hair-em-hair
  
 
 ###Punctuation, dashes
