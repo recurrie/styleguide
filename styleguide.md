@@ -19,10 +19,10 @@
 
 ###Caps
 ###URLS: www or not
-###phone numbers
-###quotations
+###Phone numbers
+###Quotations
 
-###tricky spellings
+###Tricky spellings
 - interp vs interp
 - mikmaq (noun vs adverb)
 
