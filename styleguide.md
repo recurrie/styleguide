@@ -5,7 +5,8 @@
 ###Standard text cleanup
 - double spaces
 - double dashes
-- quotation marks/inch marks/primes
+- quotation marks/inch marks/primes 
+* hair-em-hair
  
 
 ###Punctuation, dashes
