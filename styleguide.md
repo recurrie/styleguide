@@ -6,6 +6,7 @@
 ###Numbers
 ###Lists 
 - bulleted and numbered
+
 ###Caps
 ###URLS: www or not
 ###phone numbers
