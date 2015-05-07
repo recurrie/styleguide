@@ -12,9 +12,9 @@
 ###Punctuation, dashes
 - hyphens
 - date and number ranges
- -en
+   -en
 - pauses
-  -hair-em-hair
+   -hair-em-hair
 
 ###Numbers
 ###Lists 
