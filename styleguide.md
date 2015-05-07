@@ -3,6 +3,10 @@
 ##Style Guide Elements
 
 ###Punctuation, dashes
+- hyphens
+- date and number ranges
+- pauses
+
 ###Numbers
 ###Lists 
 - bulleted and numbered
