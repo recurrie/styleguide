@@ -13,14 +13,23 @@
   -en
 - pauses
   -hair-em-hair
+- ellipses
 
 ###Dates & times
 - ISO yyyy-mm-dd vs USA mm-dd-yy vs Euro dd-mm-yy
 - times 24h vs 12hr, leading 0, space before the am/pm, CAPS or no
 
 ###Numbers
+- fractions
+
+###Addresses and phone numbers
+- () or not
+- hyphens vs periods
+
 ###Lists 
 - bulleted and numbered
+- comma use, capitalization
+- nested lists
 
 ###Caps
 ###URLS: www or not
