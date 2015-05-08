@@ -48,3 +48,14 @@
 - active voice should be standard (unless there's a good reason for passive)
 - consistent tense
 - avoid words "focusing on", "helping to"-just pick one verb!
+
+### Measurements
+- abbreviations for km, m
+- no space between abbrev and # (e.g. 12,000km not 12,000 km)
+
+### Abbrev.
+- e.g. means "for example". If you list several examples, do not follow with "etc.", as it is implied.
+- i.e. means "as in". Give the essence of the thing you are explaining. 
+
+###Spelling 
+- Use standard Canadian spellings (ensure language is properly set within InDesign)
