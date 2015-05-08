@@ -32,8 +32,10 @@
 - nested lists
 
 ###Caps
+
+- Don't capitalize anything. Except if you have to.
+
 ###URLS: www or not
-###Phone numbers
 ###Quotations
 
 ###Tricky spellings
