@@ -47,9 +47,9 @@
 - French titles: no caps except initial word
 
 ###Bureaucratese
-- active voice should be standard (unless there's a good reason for passive)
+- prefer active voice (though there are many cases where one might use passive voice)
 - consistent tense
-- avoid words "focusing on", "helping to"-just pick one verb!
+- avoid words: "focusing on", "helping to" - pick one verb
 
 ### Measurements
 - abbreviations for km, m
@@ -60,4 +60,4 @@
 - i.e. means "as in". Give the essence of the thing you are explaining. 
 
 ###Spelling 
-- Use standard Canadian spellings (ensure language is properly set within InDesign)
+- Use standard Canadian spellings (ensure language is properly set within InDesign or Word)
